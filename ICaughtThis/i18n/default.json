@@ -1,0 +1,8 @@
+{
+  "Response_NotHoldingAnything": "You're not holding anything.",
+  "Response_NotHoldingFish": "{{itemName}} isn't a fish.",
+  "Response_AlreadyCredited": "You already have credit for catching {{itemName}}.",
+  "Response_ClaimedCredit": "You claimed credit for catching {{itemName}}!",
+
+  "Options_ClaimCreditKey": "Claim credit key"
+}
